@@ -34,4 +34,5 @@ Compares feedback trends across different sources and periods.
 
 ## Dashboard Preview
 
-https://github.com/AjithPriyan/CustomerFeedbackAnalysis/blob/main/Customer%20Feedback%20Analytics.pdf
+![Screenshot](https://github.com/user-attachments/assets/b3b8d416-db4a-4e1a-a0f6-e15a5c4cf219)
+
